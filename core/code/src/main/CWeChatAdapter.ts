@@ -1,0 +1,1 @@
+if (typeof window !== 'undefined') { window["Share"] = Share; window["ClientCore"] = ClientCore; }

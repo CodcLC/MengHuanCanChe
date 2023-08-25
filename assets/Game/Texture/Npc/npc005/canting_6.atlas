@@ -1,0 +1,111 @@
+
+canting_6.png
+size: 352,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MA_arm_d_l
+  rotate: false
+  xy: 2, 69
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+MA_arm_d_r
+  rotate: false
+  xy: 294, 88
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+MU_body
+  rotate: false
+  xy: 2, 162
+  size: 74, 188
+  orig: 74, 188
+  offset: 0, 0
+  index: -1
+Ma_arm_u_l
+  rotate: false
+  xy: 177, 164
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+Ma_arm_u_r
+  rotate: false
+  xy: 191, 7
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+YM_body
+  rotate: false
+  xy: 78, 212
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+YM_body_1
+  rotate: false
+  xy: 171, 212
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+YM_leg_d_l
+  rotate: false
+  xy: 258, 66
+  size: 34, 102
+  orig: 34, 102
+  offset: 0, 0
+  index: -1
+YM_leg_d_r
+  rotate: false
+  xy: 2, 18
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+YM_leg_u_l
+  rotate: false
+  xy: 100, 25
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+YM_leg_u_r
+  rotate: false
+  xy: 78, 164
+  size: 97, 46
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+head2_angry
+  rotate: false
+  xy: 264, 261
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+head2_common
+  rotate: false
+  xy: 82, 73
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+head2_happy
+  rotate: false
+  xy: 264, 170
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+head2_unhappy
+  rotate: false
+  xy: 170, 73
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1

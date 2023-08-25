@@ -1,0 +1,111 @@
+
+canting_1.png
+size: 329,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC_arm_d_r
+  rotate: false
+  xy: 225, 86
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+BC_arm_u_l
+  rotate: false
+  xy: 225, 124
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+BC_arm_u_r
+  rotate: false
+  xy: 191, 4
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+BC_body
+  rotate: false
+  xy: 2, 171
+  size: 94, 156
+  orig: 94, 156
+  offset: 0, 0
+  index: -1
+BC_leg_d_l
+  rotate: false
+  xy: 98, 201
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+BC_leg_d_l_1
+  rotate: false
+  xy: 98, 155
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+BC_leg_d_r
+  rotate: false
+  xy: 95, 12
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+BC_leg_u_l
+  rotate: false
+  xy: 260, 247
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+BC_leg_u_l_1
+  rotate: false
+  xy: 176, 73
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+BC_leg_u_r
+  rotate: false
+  xy: 292, 173
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+YM_body
+  rotate: false
+  xy: 2, 31
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+head4_angry
+  rotate: false
+  xy: 95, 73
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+head4_common
+  rotate: false
+  xy: 98, 247
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+head4_happy
+  rotate: false
+  xy: 179, 247
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+head4_unhappy
+  rotate: false
+  xy: 211, 165
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1

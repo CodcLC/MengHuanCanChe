@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
+        "lib": [
+            "es7",
+            "es2015.promise",
+            "es2015.iterable",
+            "dom"
+        ],
+        "removeComments": true,
+        "declaration": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "outFile": "../../../www/client/src/assets/Script/Plugins/core.js"
+        // "inlineSourceMap": true, /* Emit a single file with source maps instead of having a separate file. */
+        // "inlineSources": true
+    },
+    "include": [
+        "../../../share/**/*.x.ts",
+        "../../../share/**/*.*c*.ts",
+        "src/**/*.ts",
+        "libs/**/*.*"
+    ]
+}

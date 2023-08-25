@@ -1,0 +1,97 @@
+
+canting_4.png
+size: 314,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC_arm_d_l
+  rotate: false
+  xy: 88, 5
+  size: 93, 43
+  orig: 93, 43
+  offset: 0, 0
+  index: -1
+BC_arm_d_r
+  rotate: false
+  xy: 95, 140
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+BC_arm_u_l
+  rotate: false
+  xy: 193, 122
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+BC_arm_u_r
+  rotate: false
+  xy: 271, 245
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+BC_leg_d_l
+  rotate: false
+  xy: 95, 178
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+BC_leg_d_r
+  rotate: false
+  xy: 208, 163
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+BC_leg_u_l
+  rotate: false
+  xy: 2, 2
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+BC_leg_u_r
+  rotate: false
+  xy: 51, 10
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+YM_body
+  rotate: false
+  xy: 2, 174
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+head1_angry
+  rotate: false
+  xy: 183, 224
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+head1_happy
+  rotate: false
+  xy: 2, 84
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+head1_normmon
+  rotate: false
+  xy: 95, 224
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+head1_unhappy
+  rotate: false
+  xy: 90, 50
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1

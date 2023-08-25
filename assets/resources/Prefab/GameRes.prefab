@@ -1,0 +1,139 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "GameRes",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_level": 1,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "groupIndex": 0,
+    "_id": "",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        667,
+        375,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "1794dsBopVHjpAc+E0XqyM8",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "prefab_upgradeButton": {
+      "__uuid__": "2d4990a0-3b69-4e18-aad5-1e28ff73458d"
+    },
+    "audio_cooking": {
+      "__uuid__": "f5f4e6e7-56a5-48a7-b1e1-f0d7a019546e"
+    },
+    "audio_cooking2": {
+      "__uuid__": "5abcf6fb-b172-4b5b-a395-909864a34997"
+    },
+    "audio_drink_fill": {
+      "__uuid__": "13b9edcd-7ecd-4c29-87e0-d10abe49f0e6"
+    },
+    "prefab_cooking": {
+      "__uuid__": "af2b2b32-fe0c-45ad-868b-c63194684378"
+    },
+    "prefab_burnt": {
+      "__uuid__": "bbaf8de4-a152-4c8f-a921-ec93c10eb2a9"
+    },
+    "prefab_topUI": {
+      "__uuid__": "8c36d5a7-1d74-4019-b661-8c5b4d56dc56"
+    },
+    "prefab_cake": {
+      "__uuid__": "2a069fe5-08b0-4c7c-b526-917a98a94dcd"
+    },
+    "prefab_npc": [
+      {
+        "__uuid__": "c91d5067-c764-4f71-84e7-c9b33d131223"
+      },
+      {
+        "__uuid__": "109c415e-866b-417c-a5cf-4655f8fbb119"
+      },
+      {
+        "__uuid__": "b229d98d-b244-4992-8312-5cbbc47c0e12"
+      },
+      {
+        "__uuid__": "d0907aca-f163-4b7e-b3bb-d8ad684dc03e"
+      },
+      {
+        "__uuid__": "bc36dec4-b84b-4904-b889-544e673f906a"
+      },
+      {
+        "__uuid__": "e285149a-6e79-47d1-a6d3-372714136c14"
+      }
+    ],
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "94bc2026-d2b8-45d3-b54f-2f4d67592300"
+    },
+    "fileId": "a0wfBxdClE+JyZ68GUVEih",
+    "sync": false
+  }
+]

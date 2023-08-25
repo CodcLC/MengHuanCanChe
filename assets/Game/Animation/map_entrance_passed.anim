@@ -1,0 +1,132 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "map_entrance_passed",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.03333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f23cce3a-e007-42f0-a706-8efa0ff4c797"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "75575c85-bff9-4c7f-8bb8-0b500926fe3b"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "Fulllevel": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -9,
+                40
+              ]
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": [
+                -5.1,
+                42.9
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Num": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -5
+              ]
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": [
+                0,
+                -12
+              ]
+            }
+          ]
+        }
+      },
+      "Star3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            0,
+            5
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

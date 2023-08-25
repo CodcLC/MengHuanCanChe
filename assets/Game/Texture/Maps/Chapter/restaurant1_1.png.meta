@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8aebc64a-d564-4da5-941f-3ce4f0466bba",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 289,
+  "height": 442,
+  "platformSettings": {},
+  "subMetas": {
+    "restaurant1_1": {
+      "ver": "1.0.6",
+      "uuid": "fdf0e35d-e2b8-41f6-88d1-85715ce0bd6c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8aebc64a-d564-4da5-941f-3ce4f0466bba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 289,
+      "height": 442,
+      "rawWidth": 289,
+      "rawHeight": 442,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

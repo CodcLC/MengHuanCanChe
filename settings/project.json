@@ -1,0 +1,54 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [
+    "DragonBones",
+    "VideoPlayer",
+    "WebView",
+    "Collider",
+    "Physics",
+    "StudioComponent",
+    "Intersection",
+    "Native Socket",
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default"
+  ],
+  "last-module-event-record-time": 1692987211881,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "517edfc0-ef6a-4593-b4cd-1696ffade74e",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

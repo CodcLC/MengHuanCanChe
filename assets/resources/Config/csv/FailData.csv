@@ -1,0 +1,7 @@
+ID	备注	警告	内容	描述	复活	增加数	图标
+int	string	int	int	int	int	int	string
+ID	desc	Tip	TetTitle	TxtContent	cost	reward	Icon
+1	顾客不足	71	81	91	30	3	fail_people
+2	时间不足	72	82	92	30	20000	fail_time
+3	食物烧糊了	73	83	93	30	-1	fail_again
+4	顾客生气了	74	84	94	30	-1	fail_again

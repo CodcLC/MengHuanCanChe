@@ -1,0 +1,33 @@
+{
+  "name": "fastfoodshop",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv-dts": "node tools/typing_csv.js",
+    "gen-enums": "node tools/genEnums.js",
+    "tocsv": "node tools/tocsv.js",
+
+    "post-build":"",
+    "tiny-png": "python tools/png_process.py",
+    "copy-res":"", 
+    "rm-res": "node tools/deleteres.js"
+    
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:Ren.Wang/FastFoodShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pngquant": "^2.0.1",
+    "progress": "^2.0.3",
+    "typings": "^2.1.1"
+  }
+}
